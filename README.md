@@ -10,6 +10,7 @@ Noise Extraction
 
 and identifies suspicious regions along with a confidence score and tampering verdict.
 
+
 📌 Project Overview
 
 Digital images can be manipulated easily using modern editing tools. Detecting such modifications is important in areas like:
@@ -27,6 +28,7 @@ Instead of deep learning models, this approach is:
 ✅ Interpretable
 ✅ Fast
 ✅ Suitable for academic demonstration
+
 
 🧠 System Architecture
 
@@ -87,6 +89,8 @@ Below is the architecture of the tampering detection system.
                 │ Confidence Score  │
                 │ + Final Verdict   │
                 └──────────────────┘
+
+
 🔬 Detection Techniques Used
 1️⃣ Error Level Analysis (ELA)
 
@@ -133,6 +137,7 @@ Threshold = Mean + 2 × Standard Deviation
 
 Pixels exceeding this threshold are classified as suspicious regions.
 
+
 🧹 Mask Refinement
 
 To improve detection quality, the system performs:
@@ -143,6 +148,7 @@ Hole filling
 Region property filtering
 
 This removes noise and keeps only meaningful detected regions.
+
 
 🖼️ Input Example
 
@@ -157,6 +163,7 @@ Example input image:
 README_images/input_example.png
 
 (Replace this with your uploaded image path)
+
 
 🔎 Forensic Analysis Output
 
@@ -176,6 +183,7 @@ README_images/final_detection.png
 
 Suspicious regions are highlighted with contours.
 
+
 📊 Final Output
 
 The system outputs:
@@ -189,6 +197,8 @@ Example verdict:
 
 FINAL VERDICT: TAMPERED (HIGH SUSPICION)
 CONFIDENCE LEVEL: 78.4%
+
+
 🚀 How to Run the Project
 Requirements
 MATLAB (R2020 or later recommended)
@@ -225,11 +235,14 @@ Image-Tampering-Detection
 │
 └── README.md
 
+
 📈 Advantages
 No training dataset required
 Fast and lightweight
 Fully interpretable detection pipeline
 Suitable for academic demonstrations
+
+
 ⚠️ Limitations
 Highly blended manipulations may be difficult to detect
 Uniformly recompressed images may reduce ELA effectiveness

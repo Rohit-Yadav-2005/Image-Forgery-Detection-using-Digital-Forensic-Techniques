@@ -318,11 +318,11 @@ tampering_detection.m
 
 **Input Image:**
 
-![Test 4 Input](https://github.com/user-attachments/assets/05662956-600b-4037-8948-88dbdf556885)
+![Test 4 Input](https://github.com/user-attachments/assets/8324a7e8-1330-4c54-abe1-05a0d63c5c47)
 
 **Detection Results:**
 
-![Test 4 Output](https://github.com/user-attachments/assets/8324a7e8-1330-4c54-abe1-05a0d63c5c47)
+![Test 4 Output](https://github.com/user-attachments/assets/05662956-600b-4037-8948-88dbdf556885)
 
 ---
 
@@ -330,7 +330,7 @@ tampering_detection.m
 
 **Input Image:**
 
-![Test 5 Input](https://github.com/user-attachments/assets/7a4cea65-93c2-473c-a2a5-3acf77a9f5aa)
+![Test 5 Input](https://github.com/user-attachments/assets/bdd52713-806b-4437-93b1-328413b79df6)
 
 **Detection Results:**
 

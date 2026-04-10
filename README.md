@@ -280,85 +280,101 @@ tampering_detection.m
 
 ### Test Case 1: Bird Image
 
-#### Input Image
+**Input Image:**
 ![Bird Input](https://github.com/user-attachments/assets/03062ebd-33c4-4120-9559-1ecde14ce246)
 
-#### ELA Analysis Output
-![ELA Output](https://github.com/user-attachments/assets/ef94a818-e46c-479d-aef2-e4218639688a)
-
-#### ELA Result Map
-![ELA Result](https://github.com/user-attachments/assets/44acafff-b6ca-400e-9efe-fd7a08cbbd9b)
+**Detection Results (All Outputs):**
+![Bird Output](https://github.com/user-attachments/assets/ef94a818-e46c-479d-aef2-e4218639688a)
 
 ---
 
 ### Test Case 2
 
-#### Input Image
-![Test 2 Input](https://github.com/user-attachments/assets/31db9dcd-befd-4405-b4b7-56fd06421478)
+**Input Image:**
+![Test 2 Input](https://github.com/user-attachments/assets/44acafff-b6ca-400e-9efe-fd7a08cbbd9b)
 
-#### Gradient Flow Analysis
-![Gradient Output](https://github.com/user-attachments/assets/d5a3a3f7-7781-4eaf-936a-bb65f82bfa96)
-
-#### Gradient Result Map
-![Gradient Result](https://github.com/user-attachments/assets/4966ea30-35ac-40ff-a2b7-7c6e5990f594)
+**Detection Results (All Outputs):**
+![Test 2 Output](https://github.com/user-attachments/assets/31db9dcd-befd-4405-b4b7-56fd06421478)
 
 ---
 
 ### Test Case 3
 
-#### Input Image
-![Test 3 Input](https://github.com/user-attachments/assets/05662956-600b-4037-8948-88dbdf556885)
+**Input Image:**
+![Test 3 Input](https://github.com/user-attachments/assets/d5a3a3f7-7781-4eaf-936a-bb65f82bfa96)
 
-#### Noise Analysis Output
-![Noise Output](https://github.com/user-attachments/assets/8324a7e8-1330-4c54-abe1-05a0d63c5c47)
+**Detection Results (All Outputs):**
+![Test 3 Output](https://github.com/user-attachments/assets/4966ea30-35ac-40ff-a2b7-7c6e5990f594)
 
 ---
 
 ### Test Case 4
 
-#### Input Image
-![Test 4 Input](https://github.com/user-attachments/assets/7a4cea65-93c2-473c-a2a5-3acf77a9f5aa)
+**Input Image:**
+![Test 4 Input](https://github.com/user-attachments/assets/05662956-600b-4037-8948-88dbdf556885)
 
-#### Forensic Analysis Output
-![Test 4 Analysis](https://github.com/user-attachments/assets/321855f5-92e8-4406-873c-a82a9ee958df)
-
-#### Detection Result
-![Test 4 Result](https://github.com/user-attachments/assets/f8fecd25-faca-4dc4-ad0d-613a06dbafa5)
-
-#### Final Detection Map
-![Test 4 Final](https://github.com/user-attachments/assets/e176eb0e-896e-4cd6-95c3-c694a3c89b92)
+**Detection Results (All Outputs):**
+![Test 4 Output](https://github.com/user-attachments/assets/8324a7e8-1330-4c54-abe1-05a0d63c5c47)
 
 ---
 
 ### Test Case 5
 
-#### Input Image
-![Test 5 Input](https://github.com/user-attachments/assets/584e6a0f-1548-4979-aecf-b68727a3702c)
+**Input Image:**
+![Test 5 Input](https://github.com/user-attachments/assets/7a4cea65-93c2-473c-a2a5-3acf77a9f5aa)
 
-#### Combined Analysis Output
-![Test 5 Analysis](https://github.com/user-attachments/assets/23373022-a965-48bc-ad45-ed3fc82af171)
-
-#### Tampering Detection Result
-![Test 5 Result](https://github.com/user-attachments/assets/1f1a6c6a-7d77-4566-b773-21ef86140a11)
-
-#### Final Verdict Map
-![Test 5 Final](https://github.com/user-attachments/assets/db78044b-6dd6-445e-9771-53a0bdd15655)
+**Detection Results (All Outputs):**
+![Test 5 Output](https://github.com/user-attachments/assets/321855f5-92e8-4406-873c-a82a9ee958df)
 
 ---
 
 ### Test Case 6
 
-#### Input Image
-![Test 6 Input](https://github.com/user-attachments/assets/409bc8e3-164d-41f8-ad9e-8e3fdc412219)
+**Input Image:**
+![Test 6 Input](https://github.com/user-attachments/assets/f8fecd25-faca-4dc4-ad0d-613a06dbafa5)
 
-#### Comprehensive Analysis Output
-![Test 6 Analysis](https://github.com/user-attachments/assets/eac61b9e-8748-46cd-b4d8-18669040a31f)
+**Detection Results (All Outputs):**
+![Test 6 Output](https://github.com/user-attachments/assets/e176eb0e-896e-4cd6-95c3-c694a3c89b92)
 
-#### Detection Report
-![Test 6 Report](https://github.com/user-attachments/assets/d2782d3c-9d75-4c6a-8e60-48f55fe1006a)
+---
 
-#### Final Tampering Detection
-![Test 6 Final](https://github.com/user-attachments/assets/e000082b-5565-423e-ba99-2a92a59a72d0)
+### Test Case 7
+
+**Input Image:**
+![Test 7 Input](https://github.com/user-attachments/assets/584e6a0f-1548-4979-aecf-b68727a3702c)
+
+**Detection Results (All Outputs):**
+![Test 7 Output](https://github.com/user-attachments/assets/23373022-a965-48bc-ad45-ed3fc82af171)
+
+---
+
+### Test Case 8
+
+**Input Image:**
+![Test 8 Input](https://github.com/user-attachments/assets/1f1a6c6a-7d77-4566-b773-21ef86140a11)
+
+**Detection Results (All Outputs):**
+![Test 8 Output](https://github.com/user-attachments/assets/db78044b-6dd6-445e-9771-53a0bdd15655)
+
+---
+
+### Test Case 9
+
+**Input Image:**
+![Test 9 Input](https://github.com/user-attachments/assets/409bc8e3-164d-41f8-ad9e-8e3fdc412219)
+
+**Detection Results (All Outputs):**
+![Test 9 Output](https://github.com/user-attachments/assets/eac61b9e-8748-46cd-b4d8-18669040a31f)
+
+---
+
+### Test Case 10
+
+**Input Image:**
+![Test 10 Input](https://github.com/user-attachments/assets/d2782d3c-9d75-4c6a-8e60-48f55fe1006a)
+
+**Detection Results (All Outputs):**
+![Test 10 Output](https://github.com/user-attachments/assets/e000082b-5565-423e-ba99-2a92a59a72d0)
 
 ---
 

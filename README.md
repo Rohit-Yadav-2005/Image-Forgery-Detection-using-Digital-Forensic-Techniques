@@ -170,11 +170,18 @@ README_images/input_example.png
 The system produces intermediate forensic maps:
 
 Error Level Analysis
+
 README_images/ela_output.png
+
 Gradient Flow Map
+
 README_images/gradient_output.png
+
 Noise Map
+
 README_images/noise_output.png
+
+
 🚨 Tampering Detection Result
 Detection Mask
 README_images/detection_mask.png

@@ -210,23 +210,23 @@ demo_inputs/
 The system produces intermediate forensic maps:
 
 ### Error Level Analysis
-![ELA Output](README_images/ela_output.png)
+<img width="283" height="227" alt="image" src="https://github.com/user-attachments/assets/0fd10517-c620-4aec-ba44-0398a575cf5c" />
 
 ### Gradient Flow Map
-![Gradient Output](README_images/gradient_output.png)
+<img width="281" height="226" alt="image" src="https://github.com/user-attachments/assets/c6d101e0-4ed9-4d6c-8c15-0501d8fb2434" />
 
 ### Noise Map
-![Noise Output](README_images/noise_output.png)
+<img width="281" height="228" alt="image" src="https://github.com/user-attachments/assets/5ff08d88-fac5-45ce-9e8a-575ed96b9cea" />
 
 ---
 
 ## 🚨 Tampering Detection Result
 
 ### Detection Mask
-![Detection Mask](README_images/detection_mask.png)
+<img width="283" height="232" alt="image" src="https://github.com/user-attachments/assets/64938135-30d4-49ec-99ea-7e54112a90a5" />
 
 ### Detected Tampered Regions
-![Final Detection](README_images/final_detection.png)
+<img width="281" height="227" alt="image" src="https://github.com/user-attachments/assets/c42c4641-0eaf-47df-aae7-77b47ef8950a" />
 
 Suspicious regions are highlighted with contours.
 
